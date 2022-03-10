@@ -1,4 +1,6 @@
-# news_app
+**News App Created with Flutter**
 
-A News App Created using Flutter
+The app was created using Windows PC thus has not been tested on iOS. 
+
+
 
